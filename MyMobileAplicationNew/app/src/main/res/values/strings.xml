@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Application Of Mathematics</string>
+    <string name="text_diah">© Diah Siti Fatimah Azzahrah 2021|| All Rights Reserved</string>
+    <string name="about_math">Aplikasi ini merupakan sebuah aplikasi sederhana yang berkaitan dengan Matematika. Dalam
+    aplikasi ini terdapat calculator sederhana dan quiz perhitungan.</string>
+    <string name="icons_from_www_flaticon_com">Icons from www.flaticon.com</string>
+
+
+    <string name="labelJumlahkan">Hasil</string>
+    <string name="buttonHandler">buttonHandler</string>
+
+    <string-array name="prosesList">
+        <item>Penjumlahan</item>
+        <item>Pengurangan</item>
+        <item>Perkalian</item>
+        <item>Pembagian</item>
+        <item>Modulus</item>
+    </string-array>
+
+</resources>
